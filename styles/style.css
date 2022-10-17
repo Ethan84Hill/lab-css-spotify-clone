@@ -1,3 +1,37 @@
+.bottom-part {
+    background-color: #00B172;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name-border {
+    border-bottom: 2px solid white;
+    width: 50%;
+}
+
+div {
+    color: white;
+}
+
+.spotify-logo {
+    width: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.kanye-picture {
+    width: 15%;
+    padding: 2%
+}
+
+.left-side-info {
+    display: flex;
+    flex-direction: column;
+    padding-left: 2%;
+}
+
+
 /*
 Colors:
 
