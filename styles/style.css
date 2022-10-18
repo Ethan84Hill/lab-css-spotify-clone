@@ -1,3 +1,7 @@
+body {
+    font-family:Arial, Helvetica, sans-serif
+}
+
 .bottom-part {
     background-color: #00B172;
     display: flex;
@@ -7,7 +11,6 @@
 
 .name-border {
     border-bottom: 2px solid white;
-    width: 50%;
 }
 
 div {
@@ -21,7 +24,7 @@ div {
 }
 
 .kanye-picture {
-    width: 15%;
+    width: 12%;
     padding: 2%
 }
 
